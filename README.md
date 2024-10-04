@@ -8,7 +8,7 @@ I'm a web enthusiast with a deep-seated love for creating captivating websites. 
 
 🧙‍♂️ Fluent in PHP, JavaScript, HTML, CSS, and MySQL.
 
-🔧 Proficient in Node.js, Symfony, and WordPress.
+🔧 Proficient in  Symfony and WordPress.
 
 🌐 Crafting dynamic web applications is my jam.
 
