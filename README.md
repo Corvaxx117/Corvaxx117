@@ -1,35 +1,23 @@
-👋 Hi there, I'm Julien, but call me Corvaxx !
+👋 Hey there! I’m Julien, but feel free to call me Corvaxx.
 
-🌐 Passionate about the Web and Crafting Digital Experiences 🚀
+🌐 Web Developer | Apprentice in Digital Wizardry
 
-I'm a web enthusiast with a deep-seated love for creating captivating websites. My journey into the world of web development began at the 3W Academy, where I honed my skills and earned my diploma. Since then, I've been on a thrilling adventure, shaping the digital landscape with my coding skills.
+I’m currently balancing my time between real-world experience at Inetum and academic growth at OpenClassrooms. My journey started at the 3W Academy, where I earned my diploma, and it's been full steam ahead ever since. Now, as a developer at Inetum, I get to work on dynamic projects that fuel my passion for building web experiences that stand out.
 
-💻 Tech Stack:
+💻 My Tech Arsenal:
+🔮 Languages: PHP, JavaScript, HTML, CSS, MySQL
+⚙️ Frameworks: Strong in Symfony and WordPress
+🚀 Skills: Building dynamic web applications, crafting seamless backend solutions, and bringing designs to life with CSS wizardry
+🐘 Backend: Deeply familiar with PHP, MySQL, and the LAMP stack
 
-🧙‍♂️ Fluent in PHP, JavaScript, HTML, CSS, and MySQL.
+📚 Always Growing, Always Coding
+Web development is an ever-evolving field, and I’m constantly honing my skills. Lately, I’ve been diving deeper into Symfony and exploring new front-end techniques to make my projects more engaging and performant. Learning is my fuel, and I love that there’s always something new to master.
 
-🔧 Proficient in  Symfony and WordPress.
+🌟 Why I’m Here on GitHub
+GitHub is my digital workshop—a place where I document my journey, showcase my skills, and collaborate on projects. Here, you’ll find a mix of my work, from full-featured web applications to tailored WordPress themes. I’m always open to connecting with like-minded developers, sharing knowledge, and learning from the community.
 
-🌐 Crafting dynamic web applications is my jam.
+🤝 Let’s Connect
+If you’re interested in collaborating, have questions, or just want to chat about the latest in web dev, reach out!
 
-🐘 Comfortable with PHP, mySQL, and the LAMP stack.
-
-🌈 CSS wizardry to make websites shine.
-
-🚀 JavaScript to add interactivity and life to my projects.
-
-📚 Continuous Learning:
-
-I'm always on the lookout for the latest trends and technologies in the web development world. I believe that learning is a lifelong journey, and the ever-evolving nature of the web keeps me on my toes. Whether it's mastering new libraries or exploring innovative frameworks, I'm up for the challenge.
-
-🌟 My GitHub Mission:
-
-GitHub is my playground, where I showcase my passion and commitment to web development. You'll find a diverse collection of projects, from interactive web applications to custom WordPress themes. I love collaborating and welcome opportunities to learn, share, and grow with the open-source community.
-
-🚀 Let's Connect!:
-
-Feel free to reach out, whether you're interested in collaboration, have questions, or simply want to chat about all things web. Let's create the future of the internet together!
-
-📫 Contact:
-
-💼 LinkedIn: https://www.linkedin.com/in/julien-amiel-dev/
+📫 Find me here:
+💼 [LinkedIn](https://www.linkedin.com/in/julien-amiel-dev/)
