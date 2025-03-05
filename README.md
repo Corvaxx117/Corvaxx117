@@ -9,15 +9,20 @@ Entre mon travail de développeur chez Inetum et ma formation continue chez Open
 💡 Ma boîte à outils
 
 🛠 Langages : PHP, JavaScript, HTML, CSS, MySQL
-⚡ Frameworks : Symfony, WordPress
-🏗 Expertises : Applications dynamiques, architectures backend robustes, animations et interfaces peaufinées
-🌍 Toujours en quête d’évolution
-Le web évolue, et moi avec. Actuellement, je plonge encore plus profondément dans Symfony et peaufine mes techniques front-end pour des interfaces toujours plus fluides et engageantes.
 
-🔗 Pourquoi GitHub ?
+⚡ Frameworks : Symfony, WordPress
+
+🏗 Expertises : Applications dynamiques, architectures backend robustes, animations et interfaces peaufinées
+
+🌍 Toujours en quête d’évolution
+
+Le web évolue, et moi avec. Actuellement, je plonge encore plus profondément dans Symfony et peaufine mes techniques front-end pour des interfaces toujours plus fluides et engageantes.
+Je travaille pour la Metropole Aix-Marseille Provence essentiellement !
+
+🔗 GitHub ?
 Ici, je trace mon parcours de formation, je partage mes projets et j’échange avec la communauté.
 
-👀 Envie de collaborer ou d'échanger des idées ?
+👀 Envie de collaborer, d'échanger des idées ou de jouer ?
 Que ce soit pour discuter d’un projet, partager des astuces ou refaire le monde du dev, je suis toujours partant !
 
 📫 Retrouvons-nous aussi sur LinkedIn !
