@@ -3,6 +3,7 @@
 
  つ ಥ_ಥ ༽つ    ༼ つ ಥ_ಥ ༽つ    ༼ つ ಥ_ಥ ༽つ    ༼ つ ಥ_ಥ ༽つ
  
+ 
  🚀 Developer| Inetum - Aix-en-Provence
 
 🛠 Langages : PHP, JavaScript, HTML, CSS, MySQL
@@ -16,14 +17,6 @@ Ici, je trace mon parcours de formation, je partage mes projets et j’échange 
 
 📫 LinkedIn !
 💼 [LinkedIn](https://www.linkedin.com/in/julien-amiel-dev/)
-
-                   _                        _
- __  __           | |                      (_)            
-|  \/  |   ____  _| |_   _____      ___     _    ____         
-| \  / |  |  __| \   _| |   _  \  /  _  \  | |  |     \   
-| |\/| |  |  \    | |   |  (_) |  | | | |  | |  |  ||  |
-| |  | |  |  /_   | |_  |  |\  \  | |_| |  | |  |  ||  |
-|_|  |_|  |____|  \___| |__| \__| \_____/  |_|  |_____/
 
   
 ༼ つ ಥ_ಥ ༽つ    ༼ つ ಥ_ಥ ༽つ    ༼ つ ಥ_ಥ ༽つ    ༼ つ ಥ_ಥ ༽つ
