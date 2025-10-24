@@ -8,7 +8,7 @@
 
 🛠 Langages : PHP, JavaScript, HTML, CSS, MySQL
 
-⚡ Frameworks : Symfony, WordPress, Metroid
+⚡ Frameworks : Symfony, Metroid
 
 🏗 Expertises : Applications dynamiques, architectures backend robustes, animations et interfaces peaufinées
 
