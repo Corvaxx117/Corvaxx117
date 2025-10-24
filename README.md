@@ -12,10 +12,6 @@
 
 🏗 Expertises : Applications dynamiques, architectures backend robustes, animations et interfaces peaufinées
 
-🔗 GitHub 
-Ici, je trace mon parcours de formation, je partage mes projets et j’échange avec la communauté.
-
-📫 LinkedIn !
 💼 [LinkedIn](https://www.linkedin.com/in/julien-amiel-dev/)
 
   
