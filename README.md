@@ -31,14 +31,28 @@
 ```yaml
 nom: Julien Amiel
 poste: Développeur Web @ Inetum
-localisation: Marseille / Aix-en-Provence 🇫🇷
+localisation: Marseille 🇫🇷
 expertises:
   - Applications dynamiques
   - Architectures backend robustes
   - Animations et interfaces peaufinées
   - Tests & Automatisation de déploiement
-fun_fact: Je fais aussi de la musique 🎵
+  - Je peux aussi me lécher le coude et me retourner les paupières pour détendre l'atmosphère au travail
+fun_fact: Je fais aussi de la musique que les gens ne comprennent pas
+error413: Donner moi une plus grande tartine pour que je puisse continuer à étaler ma vie
+
+
 ```
+
+<div align="center">
+  <em>Very serious disclaimer:</em><br/>
+  Parfois tu cognes le code, parfois c'est le code qui te cogne.<br/>
+  Ce README peut contenir des traces de café, de refactorisation tardive et de confiance injustifiée.<br/><br/>
+  Malgré mes compétences évidentes, mon sens de l'humour objectivement déraisonnable et mes trois ans d'expérience,<br/>
+  il paraît que je reste un développeur junior. Dans le regard attendri du recruteur, je suis donc probablement
+  incapable d'afficher <code>Hello World</code> sans courir demander à Claude s'il faut une architecture hexagonale.<br/>
+  Spoiler: je lui demande parfois. Mais je relis. Nuance.
+</div>
 
 ---
 
@@ -83,6 +97,16 @@ fun_fact: Je fais aussi de la musique 🎵
 <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
 <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 
+<p>
+  <sub>
+    Ces badges donnent l'impression que je contrôle tout. C'est flatteur, et donc suspect.<br/>
+    En réalité, je passe aussi beaucoup de temps à relire du code soufflé par mon pote Copilot :<br/>
+    parfois il a des éclairs de génie, parfois il m'offre une fonction qui ne sera jamais appelée,<br/>
+    mais qu'il défend comme si l'avenir de l'humanité en dépendait.<br/>
+    Je lui réponds poliment "no thanks, mate", parce que sa confiance en lui est déjà un framework à part entière.
+  </sub>
+</p>
+
 </div>
 
 ---
@@ -119,6 +143,14 @@ fun_fact: Je fais aussi de la musique 🎵
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Corvaxx117/Corvaxx117/output/github-snake-dark.svg?v=20260626-custom" alt="GitHub contribution snake" width="100%" />
+
+<p>
+  <sub>
+    Cette animation n'est pas née d'un algorithme maison écrit au clair de lune.<br/>
+    C'est un SVG généré par une GitHub Action, customisé avec l'aide d'une IA en manque d'inspiration.<br/>
+    Very British engineering: it moves, nobody asks too many questions.
+  </sub>
+</p>
 
 </div>
 
