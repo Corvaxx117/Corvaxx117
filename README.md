@@ -46,19 +46,42 @@ fun_fact: Je fais aussi de la musique 🎵
 
 <div align="center">
 
-<h3>Langages</h3>
+<h3>Langages & Bases de données</h3>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 
-<h3>Frameworks & Outils</h3>
+<h3>Backend & Architecture</h3>
 <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+<img src="https://img.shields.io/badge/API%20REST-1ABC9C?style=for-the-badge" alt="API REST" />
+<img src="https://img.shields.io/badge/MVC-6C3483?style=for-the-badge" alt="MVC" />
+<img src="https://img.shields.io/badge/POO-2980B9?style=for-the-badge" alt="POO" />
+
+<h3>Pratiques</h3>
+<img src="https://img.shields.io/badge/CRUD-1ABC9C?style=for-the-badge" alt="CRUD" />
+<img src="https://img.shields.io/badge/Back--office-2980B9?style=for-the-badge" alt="Back-office" />
+<img src="https://img.shields.io/badge/Authentification-6C3483?style=for-the-badge" alt="Authentification" />
+<img src="https://img.shields.io/badge/Tests-2ECC71?style=for-the-badge" alt="Tests" />
+<img src="https://img.shields.io/badge/Refactorisation-F39C12?style=for-the-badge" alt="Refactorisation" />
+<img src="https://img.shields.io/badge/Documentation-34495E?style=for-the-badge" alt="Documentation" />
+<img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge" alt="Agile" />
+
+<h3>Outils & Environnements</h3>
 <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+<img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PhpStorm" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
+<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 
 </div>
 
@@ -85,7 +108,7 @@ fun_fact: Je fais aussi de la musique 🎵
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Corvaxx117&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophées" />
+<img src="https://gh-trophy.cdnsoft.net/?username=Corvaxx117&amp;theme=discord&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=10" alt="Trophées" />
 
 </div>
 
@@ -112,8 +135,6 @@ fun_fact: Je fais aussi de la musique 🎵
 <a href="https://open.spotify.com/intl-fr/artist/4x2DScjhDMpX83Xhwb1Q9L">
   <img src="https://img.shields.io/badge/🎧%20Écouter%20sur%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414" alt="Spotify" />
 </a>
-
-<p><em>Le code, c'est ma poésie. La musique, c'est mon code source.</em> 🎶</p>
 
 </div>
 
