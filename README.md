@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 <!-- HEADER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,50:2980B9,100:1ABC9C&height=220&section=header&text=Julien%20Amiel&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Développeur%20Web%20Full%20Stack&descSize=20&descAlignY=55&animation=fadeIn" />
@@ -125,4 +125,3 @@ fun_fact: Je fais aussi de la musique 🎵
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1ABC9C,50:2980B9,100:6C3483&height=120&section=footer" />
 
 </div>
-]]>
