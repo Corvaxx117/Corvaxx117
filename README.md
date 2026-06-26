@@ -85,7 +85,7 @@ fun_fact: Je fais aussi de la musique 🎵
 
 <div align="center">
 
-![Trophées](https://github-profile-trophy.vercel.app/?username=Corvaxx117&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)
+<img src="https://github-profile-trophy.vercel.app/?username=Corvaxx117&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophées" />
 
 </div>
 
@@ -109,9 +109,11 @@ fun_fact: Je fais aussi de la musique 🎵
 
 <div align="center">
 
-[![Spotify](https://img.shields.io/badge/🎧%20Écouter%20sur%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414)](https://open.spotify.com/intl-fr/artist/4x2DScjhDMpX83Xhwb1Q9L)
+<a href="https://open.spotify.com/intl-fr/artist/4x2DScjhDMpX83Xhwb1Q9L">
+  <img src="https://img.shields.io/badge/🎧%20Écouter%20sur%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414" alt="Spotify" />
+</a>
 
-*Le code, c'est ma poésie. La musique, c'est mon code source.* 🎶
+<p><em>Le code, c'est ma poésie. La musique, c'est mon code source.</em> 🎶</p>
 
 </div>
 
