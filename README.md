@@ -118,7 +118,7 @@ fun_fact: Je fais aussi de la musique 🎵
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Corvaxx117/Corvaxx117/output/github-snake-dark.svg?v=20260626" alt="GitHub contribution snake" width="100%" />
+<img src="https://raw.githubusercontent.com/Corvaxx117/Corvaxx117/output/github-snake-dark.svg?v=20260626-custom" alt="GitHub contribution snake" width="100%" />
 
 </div>
 
