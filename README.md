@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,50:2980B9,100:1ABC9C&height=220&section=header&text=Julien%20Amiel&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Développeur%20Web%20Full%20Stack&descSize=20&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,50:2980B9,100:1ABC9C&height=220&section=header&text=Julien%20Amiel&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=D%C3%A9veloppeur%20%26%20concepteur%20en%20r%C3%A9alisation%20d%27application%20web&descSize=18&descAlignY=55&animation=fadeIn" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2980B9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=PHP+%7C+JavaScript+%7C+Symfony;Applications+dynamiques+%26+robustes;Passionn%C3%A9+par+le+code+et+la+musique+%F0%9F%8E%B5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2980B9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=PHP+%7C+JavaScript+%7C+Symfony;Applications+dynamiques+%26+robustes" alt="Typing SVG" />
 </a>
 
 <br/>
