@@ -15,11 +15,7 @@ Deux ans d’expérience en alternance chez Inetum, consacrés au développement
 
 ---
 
-## ![01 — Mon approche](assets/section-approche.svg)
-
-Mon expérience chez Inetum m’a amené à travailler en équipe et en relation directe avec le client. Mes projets de formation complètent cette pratique avec la conception d’API, la refactorisation, les tests automatisés et l’intégration continue.
-
-## ![02 — Expérience et réalisations](assets/section-experience.svg)
+## ![01 — Expérience et réalisations](assets/section-experience.svg)
 
 **Inetum — Développeur PHP / Symfony en alternance · 2 ans**
 
@@ -29,7 +25,7 @@ Mon expérience chez Inetum m’a amené à travailler en équipe et en relation
 - Développements WordPress : plugins personnalisés, formulaires WPForms, utilisation d’Elementor et procédures de mise à jour.
 - Collaboration avec le client et l’équipe pour préciser les besoins, suivre les évolutions et valider les corrections.
 
-## ![03 — Projets sélectionnés](assets/section-projets.svg)
+## ![02 — Projets de formation sélectionnés](assets/section-projets.svg)
 
 ### [![Ina Zaoui — refactorisation d’une application Symfony](assets/project-ina-zaoui.svg)](https://github.com/Corvaxx117/OCR-Factorisation---Ina-Zaoui)
 
@@ -68,7 +64,7 @@ Application de formation en PHP orienté objet, construite sur le micro-framewor
 
 ---
 
-## ![04 — Compétences et outils](assets/section-competences.svg)
+## ![03 — Compétences et outils](assets/section-competences.svg)
 
 | Domaine | Technologies et pratiques |
 | --- | --- |
