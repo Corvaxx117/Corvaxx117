@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Julien Amiel — Développeur PHP / Symfony</title>
+  <desc id="desc">En-tête bleu nuit et ivoire. Un schéma relie interface, API et données pour illustrer le développement d’applications web.</desc>
+  <rect width="1200" height="340" rx="18" fill="#14262D"/>
+  <path d="M32 40V300" stroke="#86C6B5" stroke-width="3"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="72" fill="#86C6B5" font-size="14" letter-spacing="3">CONCEPTION · DÉVELOPPEMENT WEB</text>
+    <text x="60" y="150" fill="#F4F1E9" font-size="64" font-weight="700" letter-spacing="-2">Julien Amiel</text>
+    <text x="64" y="197" fill="#DAE5E3" font-size="27">Développeur PHP / Symfony</text>
+    <path d="M64 228H555" stroke="#375057"/>
+    <text x="64" y="265" fill="#ADC0C2" font-size="17">Applications métier · API · Qualité du code</text>
+    <text x="64" y="300" fill="#86C6B5" font-size="13" letter-spacing="2">MARSEILLE, FRANCE</text>
+  </g>
+  <g fill="none" stroke="#375057" stroke-width="1">
+    <path d="M720 40V300M780 40V300M840 40V300M900 40V300M960 40V300M1020 40V300M1080 40V300M1140 40V300" opacity=".3"/>
+    <path d="M680 60H1160M680 120H1160M680 180H1160M680 240H1160M680 300H1160" opacity=".3"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="748" y="54" width="248" height="57" rx="8" fill="#1B333B" stroke="#49616A"/>
+    <text x="772" y="89" fill="#DAE5E3" font-size="17">Interface</text>
+    <path d="M872 111V139H1010V162" fill="none" stroke="#86C6B5" stroke-width="2"/>
+    <circle cx="872" cy="111" r="3" fill="#86C6B5"/>
+    <rect x="885" y="162" width="248" height="57" rx="8" fill="#86C6B5"/>
+    <text x="909" y="197" fill="#14262D" font-size="17" font-weight="700">API / Logique métier</text>
+    <path d="M1010 219V244H829V260" fill="none" stroke="#86C6B5" stroke-width="2"/>
+    <rect x="706" y="260" width="248" height="49" rx="8" fill="#1B333B" stroke="#49616A"/>
+    <text x="730" y="291" fill="#DAE5E3" font-size="17">Données</text>
+  </g>
+</svg>
