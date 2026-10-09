@@ -79,4 +79,4 @@ Conception d’un micro-framework PHP orienté objet, inspiré de Symfony, pour 
 
 ---
 
-En dehors du développement, je compose de la musique. [Écouter mes morceaux](https://open.spotify.com/intl-fr/artist/4x2DScjhDMpX83Xhwb1Q9L).
+En dehors du développement, je compose de la musique. [Écouter mes morceaux](https://linktr.ee/Aveemana).
