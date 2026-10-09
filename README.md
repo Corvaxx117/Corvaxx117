@@ -15,11 +15,11 @@ Deux ans d’expérience en alternance chez Inetum, consacrés au développement
 
 ---
 
-## 01 — Mon approche
+## ![01 — Mon approche](assets/section-approche.svg)
 
 Mon expérience chez Inetum m’a amené à travailler en équipe et en relation directe avec le client. Mes projets de formation complètent cette pratique avec la conception d’API, la refactorisation, les tests automatisés et l’intégration continue.
 
-## 02 — Expérience et réalisations
+## ![02 — Expérience et réalisations](assets/section-experience.svg)
 
 **Inetum — Développeur PHP / Symfony en alternance · 2 ans**
 
@@ -29,11 +29,9 @@ Mon expérience chez Inetum m’a amené à travailler en équipe et en relation
 - Développements WordPress : plugins personnalisés, formulaires WPForms, utilisation d’Elementor et procédures de mise à jour.
 - Collaboration avec le client et l’équipe pour préciser les besoins, suivre les évolutions et valider les corrections.
 
-## 03 — Projets sélectionnés
+## ![03 — Projets sélectionnés](assets/section-projets.svg)
 
-> **Moderniser un existant** · Sécurité, tests et performances
-
-### [Ina Zaoui — refactorisation d’une application Symfony](https://github.com/Corvaxx117/OCR-Factorisation---Ina-Zaoui)
+### [![Ina Zaoui — refactorisation d’une application Symfony](assets/project-ina-zaoui.svg)](https://github.com/Corvaxx117/OCR-Factorisation---Ina-Zaoui)
 
 Reprise d’un site de photographie dans le cadre de ma formation : migration de Symfony, authentification en base de données, gestion des invités et contrôle des accès aux médias.
 
@@ -46,9 +44,7 @@ Reprise d’un site de photographie dans le cadre de ma formation : migration de
 
 ---
 
-> **Structurer une application** · API et règles métier
-
-### [GreenGoodies — application e-commerce et API REST](https://github.com/Corvaxx117/GreenGoodies)
+### [![GreenGoodies — application e-commerce et API REST](assets/project-greengoodies.svg)](https://github.com/Corvaxx117/GreenGoodies)
 
 Projet de formation organisé en deux applications : une interface Symfony/Twig et une API qui centralise les données et la logique métier.
 
@@ -60,9 +56,7 @@ Projet de formation organisé en deux applications : une interface Symfony/Twig 
 
 ---
 
-> **Comprendre les fondations** · PHP objet et architecture MVC
-
-### [TomTroc — plateforme d’échange de livres](https://github.com/Corvaxx117/Tom-Troc)
+### [![TomTroc — plateforme d’échange de livres](assets/project-tomtroc.svg)](https://github.com/Corvaxx117/Tom-Troc)
 
 Application de formation en PHP orienté objet, construite sur le micro-framework Metroid : bibliothèque personnelle, comptes utilisateurs et messagerie.
 
@@ -74,7 +68,7 @@ Application de formation en PHP orienté objet, construite sur le micro-framewor
 
 ---
 
-## 04 — Compétences et outils
+## ![04 — Compétences et outils](assets/section-competences.svg)
 
 | Domaine | Technologies et pratiques |
 | --- | --- |
