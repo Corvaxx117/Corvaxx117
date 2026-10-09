@@ -19,11 +19,12 @@ Deux ans d’expérience en alternance chez Inetum, consacrés au développement
 
 **Inetum — Développeur PHP / Symfony en alternance · 2 ans**
 
-- Développement et évolution de fonctionnalités Symfony, de l’analyse du besoin à la correction d’anomalies.
-- Contribution à une application métier : traitement et sécurisation des données utilisateurs, développement de modules d’administration, intégration d’API.
-- Réalisation d’interfaces web à partir de maquettes Figma, en respectant le design et l’adaptation aux différents écrans.
-- Développements WordPress : plugins personnalisés, formulaires WPForms, utilisation d’Elementor et procédures de mise à jour.
-- Collaboration avec le client et l’équipe pour préciser les besoins, suivre les évolutions et valider les corrections.
+- Rédaction de notes de cadrage et estimation des temps de développement, en collaboration avec le client et l’équipe jusqu’à la validation des fonctionnalités.
+- Développement de modules métier et d’administration Symfony, avec traitement et sécurisation des données utilisateurs.
+- Conception du module **Troc** : annonces d’échange, de location, de don ou de vente de biens et services, filtres par catégorie et lieu, gestion des favoris.
+- Intégration d’API et de Firebase pour l’envoi de notifications.
+- Réalisation d’interfaces à partir de maquettes Figma ; développements WordPress avec plugins personnalisés, WPForms et Elementor.
+- Maintenance et montées de version de frameworks, avec mise en place de tests de non-régression et de pipelines d’intégration continue (CI).
 
 ## ![02 — Projets de formation sélectionnés](assets/section-projets.svg)
 
@@ -52,15 +53,16 @@ Projet de formation organisé en deux applications : une interface Symfony/Twig 
 
 ---
 
-### [![TomTroc — plateforme d’échange de livres](assets/project-tomtroc.svg)](https://github.com/Corvaxx117/Tom-Troc)
+### [![Metroid — micro-framework PHP MVC](assets/project-metroid.svg)](https://github.com/Corvaxx117/metroid-webapp)
 
-Application de formation en PHP orienté objet, construite sur le micro-framework Metroid : bibliothèque personnelle, comptes utilisateurs et messagerie.
+Conception d’un micro-framework PHP orienté objet, inspiré de Symfony, pour créer des applications web à partir d’un socle réutilisable.
 
-- Gestion des livres, des images et des échanges entre utilisateurs.
-- Architecture MVC avec routage, services et validation des formulaires.
-- Travail sur les mécanismes d’un framework : requêtes, réponses et injection de dépendances.
+- Routage configurable en YAML, objets Request/Response et gestion centralisée des erreurs.
+- Conteneur de services avec injection automatique des dépendances et moteur de rendu de vues.
+- Séparation du cœur du framework et du [squelette d’application](https://github.com/Corvaxx117/metroid-webapp-skeleton), installables avec Composer.
+- Utilisé pour développer [**TomTroc**](https://github.com/Corvaxx117/Tom-Troc), une plateforme d’échange de livres avec comptes utilisateurs et messagerie.
 
-**PHP · POO · MVC · SQL · JavaScript**
+**PHP · POO · MVC · Injection de dépendances · Composer**
 
 ---
 
