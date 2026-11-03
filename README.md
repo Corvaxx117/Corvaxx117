@@ -26,7 +26,20 @@ Deux ans d’expérience en alternance chez Inetum, consacrés au développement
 - Réalisation d’interfaces à partir de maquettes Figma ; développements WordPress avec plugins personnalisés, WPForms et Elementor.
 - Maintenance et montées de version de frameworks, avec mise en place de tests de non-régression et de pipelines d’intégration continue (CI).
 
-## ![02 — Projets de formation sélectionnés](assets/section-projets.svg)
+## ![02 — Projets sélectionnés](assets/section-projets.svg)
+
+### [![BacklineBridge — application de préparation de concerts](assets/project-backlinebridge.svg)](https://github.com/Corvaxx117/BacklineBridge)
+
+Projet personnel conçu et déployé pour mon groupe de musique, afin de préparer les concerts, centraliser les informations et faciliter les échanges avec les salles.
+
+- Plan de scène interactif, fiches techniques exportables en PDF, setlists et documents par concert.
+- Comptes personnels, droits par rôle et liens d’accès temporaires pour les salles ; données administratives chiffrées.
+- Trésorerie, stock de merch et connexions à Bandsintown et Google Agenda.
+- Tests et intégration continue avec GitHub Actions ; déploiement, sauvegardes et mises à jour chez alwaysdata.
+
+**PHP 8.4 · Symfony 8.1 · Doctrine · SQLite · PHPUnit · PHPStan · GitHub Actions**
+
+---
 
 ### [![Ina Zaoui — refactorisation d’une application Symfony](assets/project-ina-zaoui.svg)](https://github.com/Corvaxx117/OCR-Factorisation---Ina-Zaoui)
 
@@ -71,7 +84,7 @@ Conception d’un micro-framework PHP orienté objet, inspiré de Symfony, pour 
 | Domaine | Technologies et pratiques |
 | --- | --- |
 | Backend | PHP, Symfony, Doctrine, API Platform, API REST, Composer |
-| Données | SQL, MySQL, PostgreSQL, modélisation relationnelle |
+| Données | SQL, MySQL, PostgreSQL, SQLite, modélisation relationnelle |
 | Qualité | PHPUnit, PHPStan, débogage, refactorisation, documentation |
 | Web et CMS | Twig, JavaScript, HTML/CSS, intégration de maquettes Figma, WordPress, WPForms, Elementor |
 | Travail en équipe | Git, GitLab, GitHub Actions, Jira, méthodes agiles |
